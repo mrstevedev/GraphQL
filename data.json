@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Aubrey Plaza",
+      "email": "aubreyplaza@gmail.com",
+      "age": 31
+    },
+    {
+      "id": 2,
+      "name": "Jay Gordon",
+      "email": "aubreyplaza@gmail.com",
+      "age": 31
+    },
+    {
+      "id": 3,
+      "name": "Brent Flanagan",
+      "email": "aubreyplaza@gmail.com",
+      "age": 29
+    }
+  ]
+}
